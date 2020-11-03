@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\TerminalEmulator\\TerminalEmulator\\TerminalEmulator.csproj",
+      "projectUniqueName": "D:\\File C#\\TerminalEmulator\\TerminalEmulator\\TerminalEmulator.csproj",
       "projectName": "TerminalEmulator",
-      "projectPath": "C:\\Users\\Nikita\\source\\repos\\TerminalEmulator\\TerminalEmulator\\TerminalEmulator.csproj",
+      "projectPath": "D:\\File C#\\TerminalEmulator\\TerminalEmulator\\TerminalEmulator.csproj",
       "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikita\\source\\repos\\TerminalEmulator\\TerminalEmulator\\obj\\",
+      "outputPath": "D:\\File C#\\TerminalEmulator\\TerminalEmulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
